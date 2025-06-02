@@ -80,9 +80,11 @@
 
 **Tareas:**
 
-- Desarrollo de API 
-- Base de datos 
-- Documentación con Swagger.
+- Estructura del proyecto y convenciones
+- Endpoints API y documentación Swagger
+- Configuración de despliegue en Render
+- Variables de entorno requeridas
+- Pipeline de CI/CD
 
 ---
 
@@ -92,7 +94,11 @@
 
 **Tareas:**
 
-- Desarrollo
+- Configuración inicial con Vite
+- Hot Module Replacement (HMR)
+- Configuración de ESLint/Prettier
+- Optimizaciones para producción
+- Variables de entorno
 
 ---
 
@@ -112,11 +118,6 @@
 
 - [Documento de Requerimientos del Producto (PRD)](https://docs.google.com/document/d/1Ey0Gy7bsxTlZEBgh4PBdq9XzG588JxGGq30Uuc0pCY4/edit?usp=sharing)
 - [Prototipo UX/UI](https://www.figma.com/files/team/1500183653133028701/project/377960672/AURA?fuid=1210675397930087460)
-
-
----
-
-## 📬 Contacto
 
 ---
 
@@ -170,24 +171,7 @@ npm install    # Instalar dependencias
 npm run dev    # Iniciar servidor de desarrollo
 ```
 
-## 📚 Documentación Adicional
-
-### ⚙️ Backend (`backend/README.md`)
-- Estructura del proyecto y convenciones
-- Endpoints API y documentación Swagger
-- Configuración de despliegue en Render
-- Variables de entorno requeridas
-- Pipeline de CI/CD
-
-### 🖥 Frontend (`aura-frontend/README.md`)
-- Configuración inicial con Vite
-- Hot Module Replacement (HMR)
-- Configuración de ESLint/Prettier
-- Optimizaciones para producción
-- Variables de entorno
-
-🔍 *Recomendamos leer ambos archivos antes de comenzar el desarrollo*
-
+🔍 Se recomienda leer los archivos README de backend y aura-frontend antes de comenzar el desarrollo, para comprender la estructura, tecnologías y flujos de trabajo del proyecto.
 ---
 ## 🌐 Demo en Producción
 
@@ -200,9 +184,10 @@ npm run dev    # Iniciar servidor de desarrollo
 
 ---
 
-## 🧠 Créditos y Recursos
-**Desarrollado por**:  
-👥 Equipo de AuraFTG  
+## 📬 Contacto
+Si deseas saber más del proyecto o del equipo, no dudes en escribirnos o visitar nuestros perfiles de LinkedIn y GitHub.
+
+- [Contacto](https://linktr.ee/aura.footalent)
 
 ---
 ## 📄 Licencia
