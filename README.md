@@ -171,7 +171,8 @@ npm install    # Instalar dependencias
 npm run dev    # Iniciar servidor de desarrollo
 ```
 
-🔍 Se recomienda leer los archivos README de backend y aura-frontend antes de comenzar el desarrollo, para comprender la estructura, tecnologías y flujos de trabajo del proyecto.
+ 🔍 *Se recomienda leer los archivos README de backend y aura-frontend antes de comenzar el desarrollo, para comprender la estructura, tecnologías y flujos de trabajo del proyecto.*
+
 ---
 ## 🌐 Demo en Producción
 
